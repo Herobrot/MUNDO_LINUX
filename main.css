@@ -3,7 +3,7 @@ body{
 }
 
 body > header{
-    background-image: url("../Assets/img/fondo.png");
+    background-image: url("/Assets/img/fondo.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
